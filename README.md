@@ -6,7 +6,7 @@
 - You can reach me at Zubia.Syed@stu.ocsb.ca
 - Fun fact : I've gone to over 5 countries!
   
-I've used the following Apps:
+I have  used the following Apps:
   
 - ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
